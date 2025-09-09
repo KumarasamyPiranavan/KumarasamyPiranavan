@@ -17,7 +17,7 @@
 ```javascript
 const kumarasamy = {
     name: "Kumarasamy Piranavan",
-    role: "Full Stack Developer",
+    role: "Full Stack Developer ( Mainly Backend Development )",
     code: ["Java", "JavaScript", "HTML", "CSS"],
     technologies: {
         frontEnd: ["React", "HTML5", "CSS3", "JavaScript"],
